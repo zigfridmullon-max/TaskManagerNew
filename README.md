@@ -1,7 +1,11 @@
  # TASKMANAGER
+
  ## Project Code: WST21-PM-2026-SF
+
  ## Course & Year: BSIT-2
+
  ## Database Used: SQLite
+ 
  ## Features:
  - Add Task
  - View Tasks
